@@ -1,4 +1,4 @@
-# Machine Vision with MATLAB: A Master’s-Level Course with Lectures and Labs
+# Machine Vision with MATLAB: A Master’s-Level Course
 
 This repository contains lecture slides and laboratory activity sheets from a **Master’s-level Machine Vision course** delivered in **Fall 2025** at **Sheffield Hallam University**.
 
@@ -9,7 +9,6 @@ The course treats machine vision as a **practical decision-making pipeline**, co
 
 The material was developed for a **multidisciplinary cohort**, including students from engineering, computing, and related backgrounds. For that reason, the teaching approach prioritizes conceptual clarity, visual intuition, and systematic problem solving rather than narrow domain-specific assumptions. The content is also relevant to learners and educators interested in **computer vision**, especially where explainable, pipeline-based methods are important.
 
----
 
 ## What is Machine Vision
 
@@ -26,7 +25,6 @@ Common application areas include:
 - **Document processing and OCR**: binarization, cleanup, and recognition pre-processing
 - **Transportation and safety**: feature detection, monitoring, and tracking
 
----
 
 ## Teaching Approach
 
@@ -40,7 +38,6 @@ Laboratory sessions are designed as **guided exploratory activities** rather tha
 
 This approach is particularly suitable for multidisciplinary cohorts, as it supports learners with different technical backgrounds while still developing a rigorous and transferable way of thinking about machine vision and computer vision systems.
 
----
 
 ## What You Will Learn
 
@@ -58,7 +55,6 @@ By working through the lectures and laboratory activities in this repository, le
 
 These skills are directly applicable to industrial inspection, robotics, food and agricultural imaging, document processing, and other applied machine vision domains.
 
----
 
 ## Industry and Real-World Exposure (AFIC Visit)
 
@@ -78,7 +74,6 @@ The visit reinforced key ideas from the module, particularly the importance of c
 
 Readers are encouraged to follow the material sequentially, pairing each lecture with its corresponding laboratory activity to reinforce concepts through hands-on experimentation.
 
----
 
 ## Core Module Structure: Topics, Lectures, and Laboratory Activities
 
@@ -89,7 +84,7 @@ Rather than treating lectures and labs as separate components, the module is des
 The sequence moves from fundamental image representation and enhancement, through filtering and segmentation, toward complete machine vision pipelines and measurement-based decision making.
 
 | Week | Topic | Lecture Material | Laboratory Activity |
-|----:|-------|------------------|---------------------|
+|-:|-|||
 | 1 | Introduction to machine vision, images as data, and MATLAB foundations | [Lecture 01: Introduction](lectures/mv-lecture-01-introduction.pdf) | [Lab 01: Image Representation and I/O in MATLAB](labs/mv-lab-01-image-representation-and-io-matlab.pdf) |
 | 2 | Contrast enhancement, intensity transforms, and histogram interpretation | [Lecture 02: Contrast Enhancement and Histograms](lectures/mv-lecture-02-contrast-enhancement-and-histograms.pdf) | [Lab 02: Contrast Enhancement in MATLAB](labs/mv-lab-02-contrast-enhancement-matlab.pdf) |
 | 3 | Spatial filtering fundamentals, kernels, and convolution intuition | [Lecture 03: Spatial Filtering](lectures/mv-lecture-03-spatial-filtering.pdf) | [Lab 03–04: Linear and Nonlinear Spatial Filtering](labs/mv-lab-03-04-linear-and-nonlinear-spatial-filtering.pdf) |
@@ -100,7 +95,6 @@ The sequence moves from fundamental image representation and enhancement, throug
 | 8 | Frequency domain techniques and spectral interpretation | Coming soon | [Lab 08: Frequency-Domain Methods](labs/mv-lab-08-frequency-domain-methods.pdf) |
 | 9 | Feature extraction, measurement, and decision-oriented analysis | Coming soon | [Lab 09: Measurement and Feature Extraction](labs/mv-lab-09-measurement-and-feature-extraction.pdf) |
 
----
 
 ## Session Summaries: Learning Focus by Week
 
@@ -144,7 +138,6 @@ Students are expected to:
 
 This structure mirrors real machine vision development, where iterative testing and refinement are essential.
 
----
 
 ## Educational Use and Boundaries
 
@@ -156,7 +149,6 @@ This repository is shared for **educational and self-study purposes**.
 
 The aim of sharing this material is to support learning, teaching, and knowledge exchange in machine vision, image processing, and computer vision, while preserving academic integrity.
 
----
 
 ## About the Instructor
 
@@ -171,8 +163,6 @@ Sheffield Hallam University
 - Academic Email: m.k.heris@shu.ac.uk
 
 
----
-
 ## License and Attribution
 
 This repository is licensed under the **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)** license.
@@ -183,7 +173,6 @@ You are free to use, share, and adapt the material for **non-commercial educatio
 
 For full license details, see the [LICENSE](LICENSE) file in this repository.
 
----
 
 ### Attribution
 
