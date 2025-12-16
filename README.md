@@ -84,7 +84,7 @@ Rather than treating lectures and labs as separate components, the module is des
 The sequence moves from fundamental image representation and enhancement, through filtering and segmentation, toward complete machine vision pipelines and measurement-based decision making.
 
 | Week | Topic | Lecture Material | Laboratory Activity |
-|-:|-|||
+|----:|-------|------------------|---------------------|
 | 1 | Introduction to machine vision, images as data, and MATLAB foundations | [Lecture 01: Introduction](lectures/mv-lecture-01-introduction.pdf) | [Lab 01: Image Representation and I/O in MATLAB](labs/mv-lab-01-image-representation-and-io-matlab.pdf) |
 | 2 | Contrast enhancement, intensity transforms, and histogram interpretation | [Lecture 02: Contrast Enhancement and Histograms](lectures/mv-lecture-02-contrast-enhancement-and-histograms.pdf) | [Lab 02: Contrast Enhancement in MATLAB](labs/mv-lab-02-contrast-enhancement-matlab.pdf) |
 | 3 | Spatial filtering fundamentals, kernels, and convolution intuition | [Lecture 03: Spatial Filtering](lectures/mv-lecture-03-spatial-filtering.pdf) | [Lab 03–04: Linear and Nonlinear Spatial Filtering](labs/mv-lab-03-04-linear-and-nonlinear-spatial-filtering.pdf) |
