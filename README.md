@@ -1,5 +1,7 @@
 # Machine Vision with MATLAB: A Master’s-Level Course
 
+![Machine Vision Banner](assets/machine-vision-pipeline.png)
+
 This repository contains lecture slides and laboratory activity sheets from a **Master’s-level Machine Vision course** delivered in **Fall 2025** at **Sheffield Hallam University**.
 
 **Delivered and led by:** **Dr. Mostapha Kalami Heris**, Sheffield Hallam University – 
