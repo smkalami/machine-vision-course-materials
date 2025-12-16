@@ -58,8 +58,8 @@ These skills are directly applicable to industrial inspection, robotics, food an
 
 ## Industry and Real-World Exposure (AFIC Visit)
 
-As part of the module delivery, a visit was arranged for students to the **Advanced Food Innovation Centre (AFIC)** at Sheffield Hallam University
-(https://www.shu.ac.uk/advanced-food-innovation-centre).
+As part of the module delivery, a guided visit was arranged for students to the **[Advanced Food Innovation Centre (AFIC)](https://www.shu.ac.uk/advanced-food-innovation-centre)** at Sheffield Hallam University, a research center focused on problem-led innovation and applied research in sustainable and healthier food systems.
+
 
 AFIC is a research center focused on problem-led research, innovation, and knowledge exchange in sustainable and healthier food systems. The purpose of this visit was to help students connect lecture and laboratory concepts to **real-world machine vision applications in the food industry**, where imaging conditions and constraints are often far from ideal.
 
