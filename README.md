@@ -155,9 +155,13 @@ The aim of sharing this material is to support learning, teaching, and knowledge
 ## About the Instructor
 
 **Dr. Mostapha Kalami Heris, BSc, MSc, PhD**
+
 Assistant Professor (Lecturer) in Control Engineering and Intelligent Systems
+
 School of Engineering and Built Environment
+
 College of Business, Technology and Engineering
+
 Sheffield Hallam University
 
 - [LinkedIn profile](https://www.linkedin.com/in/smkalami)
